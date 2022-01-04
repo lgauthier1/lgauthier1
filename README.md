@@ -1,19 +1,28 @@
-<h2 align="center">👋 Hello! I'm Laurent.</h2>
+### Hello! I'm Laurent <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 
-- 🔭 I’m currently working on **A Platform for Hackathons in Kerala**
 
--------
+> I'm curious, enthusiastic and student most of the time.
 
-📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Markdown     2 hrs 4 mins    ████████░░░░░░░░░░░░░░░░░   32.07 % 
-Python       1 hr 59 mins    ███████▓░░░░░░░░░░░░░░░░░   30.68 % 
-JavaScript   1 hr 42 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.31 % 
-JSON         20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
-HTML         11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
-```
-<!--END_SECTION:waka-->
+### About me
 
--------
+- 🔭 I’m currently Full Stack engineer <a href="https://www.neoxam.com/"> @NeoXam</a>
+- 🌱 I am currently learning how to test an application (from back to front)
+- 👯 I’m looking to collaborate on financial or crypto open source project
+
+
+### Skills
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### More about me
+ <a href="https://www.linkedin.com/in/lga1/">
+   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+ </a>
