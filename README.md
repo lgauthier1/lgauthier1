@@ -7,8 +7,9 @@
 ### About me
 
 - 🔭 I’m currently Full Stack engineer <a href="https://www.neoxam.com/"> @NeoXam</a>
-- 🌱 I am currently learning how to test an application (from back to front)
-- 👯 I’m looking to collaborate on financial or crypto open source project
+- 👨🏻‍💻 As a Lead Dev', I try to create small examples to train my team (See `understand-*` repositories)
+- 🌱 I am currently learning how to build an infrastructure with Terraform
+- 👾 I’m looking to collaborate on financial or crypto project
 
 
 ### Skills
