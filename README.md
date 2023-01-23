@@ -6,7 +6,7 @@
 
 ### About me
 
-- 🔭 I’m currently Full Stack engineer <a href="https://www.neoxam.com/"> @NeoXam</a>
+- 🔭 I’m currently Lead Full Stack engineer <a href="https://www.neoxam.com/"> @NeoXam</a>
 - 👨🏻‍💻 As a Lead Dev', I try to create small examples to train my team (See `understand-*` repositories)
 - 🌱 I am currently learning how to build an infrastructure with Terraform
 - 👾 I’m looking to collaborate on financial or crypto project
