@@ -34,8 +34,9 @@
  ### My projects
  
  <details>
-  <summary>My latest projects 👾</summary>
-- [lgauthier1/dotfiles](https://github.com/lgauthier1/dotfiles) - My personnal dotfiles to setup quickly a laptop
-- [lgauthier1/understand-docker](https://github.com/lgauthier1/understand-docker) - Docker tutorial for my backend team
-- [lgauthier1/understand-express-with-middleware-and-web-proxy](https://github.com/lgauthier1/understand-express-with-middleware-and-web-proxy) - Express middleware chaining and web proxy usage for my backend team
+ <summary>My latest projects 👾</summary>
+ 
+ - [lgauthier1/dotfiles](https://github.com/lgauthier1/dotfiles) - My personnal dotfiles to setup quickly a laptop
+ - [lgauthier1/understand-docker](https://github.com/lgauthier1/understand-docker) - Docker tutorial for my backend team
+ - [lgauthier1/understand-express-with-middleware-and-web-proxy](https://github.com/lgauthier1/understand-express-with-middleware-and-web-proxy) - Express middleware chaining and web proxy usage for my backend team
 </details>
